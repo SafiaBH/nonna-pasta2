@@ -1,0 +1,1 @@
+echo "Boil water. Add pasta. Wait 8 minutes." > spaghetti.txt
